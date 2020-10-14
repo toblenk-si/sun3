@@ -1,0 +1,1 @@
+#include <iostream>using namespace std; main(){    char a[10];    cout << "ini ujicoba compile c++ ? ";cin >> a; cout << endl;    cout << "ujicoba kali ini " << a << endl;return 0;}
